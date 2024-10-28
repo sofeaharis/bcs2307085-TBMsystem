@@ -1,0 +1,1 @@
+web: gunicorn TBMsystem.wsgi --log-file -
